@@ -1,8 +1,6 @@
 ---
 title : Teak
-feed: show
+feed: hide
 date : 16-06-2023
 ---
 
-
-ddd
