@@ -6,104 +6,43 @@ date : 16-06-2023
 
 Thailand's lush forests are home to a diverse range of tree species. Many of these trees yield wood that is highly prized for woodworking due to their unique qualities. This guide will introduce some of the most common and useful species for woodworking in Thailand.
 
-## Species
+## Species 
 
 | Common Name | Scientific Name | Alternative Name | Thai Name |
-| --- | --- | --- | --- |
-| **[Teak](Wood-Species-Teak)** | Tectona grandis | | สัก (Sak) |
-| **Makha** | Afzelia xylocarpa | Makha Tree, Xylia xylocarpa | มะค่า (Makha) |
-| **Takian** | Hopea odorata | Ta-khian | ตะเคียน (Takian) |
-| **Yang** | Dipterocarpus alatus | | ยาง (Yang) |
-| **Rosewood** | Dalbergia cochinchinensis | Thai Rosewood | พะยูง (Payung) |
-| **Rubberwood** | Hevea brasiliensis | Pará Rubber Tree | ยางพารา (Yang Para) |
-| **Rambutan** | Nephelium lappaceum | | เงาะ (Ngo) |
-| **Mango Wood** | Mangifera indica | | มะม่วง (Mamuang) |
-| **Champaka** | Michelia champaca | | จำปา (Champa) |
-| **Tampu** | Pterocarpus macrocarpus | Burma Padauk | ประดู่ (Pradu) |
-| **Krain** | Cassia siamea | Siamese Senna | กระถิน (Krain) |
-| **Satjatum** | Mangifera caloneura | Wild Mango | |
-| **Pradoo** | Pterocarpus macrocarpus | Burma Padauk | ประดู่ (Pradu) |
-| **Red Cedar** | Toona sureni | Australian Red Cedar, Indian Mahogany | ทุ่ง (Toon) |
-
+|-|-|-|-|
+| [Teak](Wood-Species-Teak) | Tectona grandis | | สัก (Sak) |
+| [Makha](Wood-Species-Makha) | Afzelia xylocarpa | Makha Tree, Xylia xylocarpa | มะค่า (Makha) |  
+| [Takian](Wood-Species-Takian) | Hopea odorata | Ta-khian | ตะเคียน (Takian) |
+| [Yang](Wood-Species-Yang) | Dipterocarpus alatus | | ยาง (Yang) |
+| [Rosewood](Wood-Species-Rosewood) | Dalbergia cochinchinensis | Thai Rosewood | พะยูง (Payung) |
+| [Rubberwood](Wood-Species-Rubberwood) | Hevea brasiliensis | Pará Rubber Tree | ยางพารา (Yang Para) | 
+| [Rambutan](Wood-Species-Rambutan) | Nephelium lappaceum | | เงาะ (Ngo) |
+| [Mango Wood](Wood-Species-Mango) | Mangifera indica | | มะม่วง (Mamuang) |
+| [Champaka](Wood-Species-Champaka) | Michelia champaca | | จําปา (Champa) |
+| [Tampu](Wood-Species-Tampu) | Pterocarpus macrocarpus | Burma Padauk | ประดู่ (Pradu) |
+| [Krain](Wood-Species-Krain) | Cassia siamea | Siamese Senna | กระถิน (Krain) | 
+| [Satjatum](Wood-Species-Satjatum) | Mangifera caloneura | Wild Mango | |
+| [Pradoo](Wood-Species-Pradoo) | Pterocarpus macrocarpus | Burma Padauk | ประดู่ (Pradu) |
+| [Red Cedar](Wood-Species-Red-Cedar) | Toona sureni | Australian Red Cedar, Indian Mahogany | ทุ่ง (Toon) |
 
 ## Characteristics
 
-| Wood Species | Hardness | Grain Pattern | Workability | Color | Stability | Durability | Sustainability | Price |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Teak** | High | Straight, uneven | Moderate | Golden-brown | High | High | Moderate | ★★★★ |
-| **Makha** | High | Interlocked | Hard | Reddish-brown | High | High | Moderate | ★★★ |
-| **Takian** | High | Straight | Moderate | Light to medium brown | High | High | Moderate | ★★★ |
-| **Yang** | High | Straight, interlocked | Hard | Light to medium brown | High | High | Moderate | ★★★ |
-| **Rosewood** | High | Straight or slightly interlocked | Moderate | Dark, rich colors | High | High | Low | ★★★★ |
-| **Rubberwood** | Medium | Straight | Easy | Light colored | Moderate | Moderate | High | ★★ |
-| **Rambutan** | Moderate | Straight | Easy | Light to medium brown | Moderate | Moderate | High | ★★ |
-| **Mango Wood** | High | Unique, varied | Moderate | Varied, often with streaks | Moderate | Moderate | High | ★★★ |
-| **Champaka** | | | | Light to medium brown | | | | |
-| **Tampu** | High | | Good for carving | Rich, varies | High | High | | ★★★ |
-| **Krain** | High | Interlocked | Moderate | Light to medium brown | High | High | | |
-| **Satjatum** | High | | Good for carving | Striking, varies | High | High | | |
-| **Pradoo** | High | | | Red, darkens with age | High | High | | |
-| **Red Cedar** | Moderate | Straight, usually | Easy | Rich red | Moderate | High (rot resistance) | | |
-
-
-## Details
-
-<a name="teak"></a>
-### Teak (Tectona grandis)
-Renowned globally for its strength and durability, Teak is one of the most widely used hardwoods in Thailand. Its high resistance to decay, insects, and weather conditions make it ideal for both indoor and outdoor furniture. The beautiful golden color and grain of the wood add to its appeal.
-
-<a name="makha"></a>
-### Makha (Afzelia xylocarpa)
-Makha wood is known for its toughness, durability, and beautiful reddish-brown color. Its hardness makes it excellent for heavy-duty woodworks and high-quality furniture. 
-
-<a name="takian"></a>
-### Takian (Hopea odorata)
-A high-quality hardwood, Takian is appreciated for its strength and resistance to decay and insects. It possesses a light to medium brown color with a fine, straight grain, making it aesthetically pleasing for various woodworking projects.
-
-<a name="dipterocarpus"></a>
-### Dipterocarpus alatus (Yang)
-Yang wood is notable for its extreme durability and resistance to insects and fungus. The wood's high density makes it a superior choice for furniture, cabinetry, and flooring.
-
-<a name="rosewood"></a>
-### Rosewood (Dalbergia cochinchinensis)
-This exotic hardwood is known for its dark, rich colors and strong grain patterns. Rosewood is dense, decay-resistant, and often preferred for high-quality furniture. Due to over-harvesting, there are restrictions on the cutting and export of this wood.
-
-<a name="rubberwood"></a>
-### Rubberwood (Hevea brasiliensis)
-Rubberwood, derived from the Pará rubber tree, is a light-colored, medium-density tropical hardwood. It's eco-friendly and is commonly used in more affordable furniture pieces.
-
-<a name="rambutan"></a>
-### Rambutan (Nephelium lappaceum)
-Rambutan wood, moderately hard and easily workable, is commonly used in furniture and wooden panel production. 
-
-<a name="mangowood"></a>
-### Mango Wood (Mangifera indica)
-Mango wood, harvested sustainably from fruit-bearing trees past their prime, has gained popularity in recent years. This hardwood is robust, with beautiful color variations and a unique grain pattern.
-
-<a name="champaka"></a>
-## Champaka (Michelia champaca)
-Champaka wood is often used for carving due to its manageable hardness and grain structure. It has a light to medium brown color, which can enhance the beauty of the finished product.
-
-<a name="tampu"></a>
-## Tampu (Pterocarpus macrocarpus)
-Also known as Burma Padauk, Tampu is a high-quality hardwood comparable to rosewood or mahogany in terms of rich color and durability. It's known for its excellent carving properties.
-
-<a name="krain"></a>
-## Krain (Cassia siamea)
-Krain wood is durable and resistant to termites. Its interlocked grain and moderate density make it ideal for cabinetry and fine furniture.
-
-<a name="satjatum"></a>
-## Satjatum (Mangifera caloneura)
-Belonging to the mango family, Satjatum wood has a dense texture that's ideal for carving intricate details. It's often used in fine woodworking and cabinet-making due to its durability and striking color.
-
-<a name="pradoo"></a>
-## Pradoo (Pterocarpus macrocarpus)
-Pradoo is valued for its durability and high resistance to decay and termites. It features a unique red color, which darkens over time, making it suitable for luxury furniture.
-
-<a name="redcedar"></a>
-## Red Cedar (Toona sureni)
-Native to South Asia, Red Cedar is known for its rot resistance, ease of workability, and rich, red color. Its pleasant aroma also makes it a favorite for chests and closets.
-
+| Wood Species | Hardness | Grain Pattern | Workability | Color | Stability | Durability | Sustainability | Price | Turning Suitability |  
+|-|-|-|-|-|-|-|-|-|-|
+| [Teak](Wood-Species-Teak) | High | Straight, uneven | Moderate | Golden-brown | High | High | Moderate | ★★★★ | ★★★★ |
+| [Makha](Wood-Species-Makha) | High | Interlocked | Hard | Reddish-brown | High | High | Moderate | ★★★ | ★★ |
+| [Takian](Wood-Species-Takian) | High | Straight | Moderate | Light to medium brown | High | High | Moderate | ★★★ | ★★ |  
+| [Yang](Wood-Species-Yang) | High | Straight, interlocked | Hard | Light to medium brown | High | High | Moderate | ★★★ | ★★ |
+| [Rosewood](Wood-Species-Rosewood) | High | Straight or slightly interlocked | Moderate | Dark, rich colors | High | High | Low | ★★★★ | ★★★ |  
+| [Rubberwood](Wood-Species-Rubberwood) | Medium | Straight | Easy | Light colored | Moderate | Moderate | High | ★★ | ★★★ |
+| [Rambutan](Wood-Species-Rambutan) | Moderate | Straight | Easy | Light to medium brown | Moderate | Moderate | High | ★★ | ★★★ |  
+| [Mango Wood](Wood-Species-Mango) | High | Unique, varied | Moderate | Varied, often with streaks | Moderate | Moderate | High | ★★★ | ★★★ |
+| [Champaka](Wood-Species-Champaka) | Medium | Straight | Easy to Moderate | Light to medium brown | Medium | Medium | High | ★★ | ★★ | 
+| [Tampu](Wood-Species-Tampu) | High | Straight | Good for carving | Rich, varies | High | High | High | ★★★ | ★★★★ |
+| [Krain](Wood-Species-Krain) | High | Interlocked | Moderate | Light to medium brown | High | High | High | ★★ | ★★ |
+| [Satjatum](Wood-Species-Satjatum) | High | Straight | Good for carving | Striking, varies | High | High | High | ★★★★ | ★★★★ |
+| [Pradoo](Wood-Species-Pradoo) | High | Straight | Good | Red, darkens with age | High | High | High | ★★★ | ★★★★ | 
+| [Red Cedar](Wood-Species-Red-Cedar) | Moderate | Straight, usually | Easy | Rich red | Moderate | High (rot resistance) | High | ★★★ | ★★★ |
 
 ## Metrics
 
@@ -119,4 +58,10 @@ Native to South Asia, Red Cedar is known for its rot resistance, ease of workabi
 
 <a name="conclusion"></a>
 ## Conclusion
-Thailand offers a vast variety of wood species suitable for woodworking. From the rich, golden hues of Teak to the sustainable attractiveness of Mango wood, there's something for every project. However, it's
+Thailand offers a vast variety of wood species suitable for woodworking. From the rich, golden hues of Teak to the sustainable attractiveness of Mango wood, there's something for every project. However, it's important to consider not just the aesthetic qualities, but also the structural characteristics, sustainability, and workability of each type of wood.
+
+For instance, Teak and Rosewood are highly prized for their durability and beautiful grain patterns, making them excellent choices for furniture and decorative items. However, these species are also more expensive and less sustainable, which may be a concern for environmentally conscious woodworkers. On the other hand, Rubberwood and Mango Wood offer a more eco-friendly option, as they are harvested from trees that are grown primarily for their fruit or sap, and the wood is a byproduct of these industries.
+
+The suitability for turning is another factor to consider, especially for woodworkers who specialize in creating rounded objects such as bowls or spindles. Woods such as Tampu, Satjatum, and Pradoo rate highly in this regard due to their high hardness and stability.
+
+In conclusion, the diversity of wood species in Thailand offers a wide range of possibilities for woodworkers, whether you're a professional seeking high-quality materials for furniture construction or a hobbyist interested in turning or carving. By understanding the specific qualities of each type of wood, you can select the perfect material for your next woodworking project.
